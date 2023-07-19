@@ -2,4 +2,5 @@
 
 ***this is a WIP on the backburner, has been for a while.***
 
-So far, **zComm** is still a WIP, but is looking good. It allows you to use SMS gateways to send text messages by email.
+📧So far, **zComm** is still a WIP, but is looking good. It allows you to use SMS gateways to send text messages by email.📧
+
